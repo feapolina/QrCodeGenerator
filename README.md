@@ -7,7 +7,7 @@
 ## Como Usar
 - Você pode acessar o projeto aqui:
  ```bash
-   (link do github pages)
+    https://feapolina.github.io/QrCodeGenerator/
 ```
 
 ## Executar Localmente

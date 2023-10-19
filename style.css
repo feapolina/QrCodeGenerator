@@ -8,7 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 11%;
+    margin-top: 8%;
 }
 
 h1{
@@ -38,14 +38,14 @@ input#url1{
     width: 300px;
 
 }
-.submit-button{
+.submit-button, .inputImage{
     margin-top: 3%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-button#submitButton{
+button#submitButton, input#imageInput{
     box-shadow: none;
     text-decoration: none;
     padding: 15px;
@@ -57,4 +57,12 @@ button#submitButton{
     line-height: 19px;
     border-style: none;
     cursor: pointer;
+}
+
+div#qrcode{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding-top: 30px;
+
 }
